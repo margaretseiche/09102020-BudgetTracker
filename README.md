@@ -4,6 +4,10 @@
 ![](https://img.shields.io/badge/Number%20of%20Contributors-1-blue)
 ![](https://img.shields.io/badge/License-MIT-red)
 
+* Deployed on Heroku at https://powerful-reaches-00668.herokuapp.com/
+* Keep track of a budget with continuity in offline scenarios 
+* Uses IndexedDB and a service worker to allow offline storage that syncs with the Mongo database when the system returns to online mode
+
 ## Table of Contents
 * [Description](#Description)
 * [Installation](#Installation)
