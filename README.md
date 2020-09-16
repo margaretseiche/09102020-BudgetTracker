@@ -17,7 +17,7 @@
 Created a Budget App to track expenses in offline mode that will be incorporated in database later when system is online again 
 
 ## Installation
-npm i
+npm i, npm run seed
 
 ## Usage
 node server.js
