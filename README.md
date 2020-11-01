@@ -8,6 +8,8 @@
 * Keep track of a budget with continuity in offline scenarios 
 * Uses IndexedDB and a service worker to allow offline storage that syncs with the Mongo database when the system returns to online mode
 
+![tes](budget.JPG)   
+
 ## Table of Contents
 * [Description](#Description)
 * [Installation](#Installation)
