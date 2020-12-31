@@ -12,12 +12,16 @@
 
 ## Table of Contents
 * [Description](#Description)
+* [Technologies](#Technologies)
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Contributors](#Contributors)
 * [Tests](#Tests)
 * [Github](#Github)
 * [Email](#Email)
+
+## Technologies
+Heroku deployment, Mongoose database, IndexedDB, service worker
 
 ## Description
 Created a Budget App to track expenses in offline mode that will be incorporated in database later when system is online again 
